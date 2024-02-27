@@ -14,12 +14,12 @@ function Clock_Analog() {
             />
             <img
               className="handle1 handle2"
-              src="/React_Clock/assets/ClockHandle2.png"
+              src="https://raw.githubusercontent.com/Taran677/React_Clock/main/src/assets/ClockHandle2.png"
               alt="2"
             />
             <img
               className="handle1 handle3"
-              src="/React_Clock/assets/ClockHandle3.png"
+              src="https://raw.githubusercontent.com/Taran677/React_Clock/main/src/assets/ClockHandle3.png"
               alt="1"
             />
           </div>
