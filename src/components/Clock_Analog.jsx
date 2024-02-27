@@ -9,7 +9,7 @@ function Clock_Analog() {
           <div className="circleCenter">
             <img
               className="handle1"
-              src="/React_Clock/assets/ClockHandle.png"
+              src="https://raw.githubusercontent.com/Taran677/React_Clock/main/src/assets/ClockHandle.png"
               alt="3"
             />
             <img
